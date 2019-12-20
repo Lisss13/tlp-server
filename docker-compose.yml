@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: Qwerty12
+      POSTGRES_USER: user
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    depends_on:
+      - db
