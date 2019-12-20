@@ -1,15 +1,45 @@
 version: '3'
 
+networks:
+  a_network:
+    driver: bridge
+
+
 services:
+
   db:
     image: postgres
     restart: always
     environment:
       POSTGRES_PASSWORD: Qwerty12
       POSTGRES_USER: user
+    networks:
+      - a_network
+
   web:
     build: .
     ports:
       - "3000:3000"
     depends_on:
       - db
+    networks:
+      - a_network
+
+  client:
+    build:
+      context: front/
+      dockerfile: Dockerfile
+    ports:
+      - 4000:3000
+    networks:
+      - a_network
+
+  nginx:
+    image: nginx:alpine
+    volumes:
+      - ./config/nginx.conf:/etc/nginx/nginx.conf
+    ports:
+      - 80:80
+    command: [nginx, '-g', 'daemon off;']
+    networks:
+      - a_network
