@@ -1,0 +1,254 @@
+{
+  "ru": {
+    "translation": {
+      "title": "TLP Ltd",
+      "link": "Подробная информация о компании TLP",
+      "navTitle": "Информация о сайте",
+      "home": {
+        "title": "Главная",
+        "subTitle": "Компания TLP",
+        "topContainer": {
+          "firstTitle": "Медикаменты",
+          "secondTitle": "Услуги",
+          "thirdTitle": "Партнеры",
+          "fourthTitle": "Цели",
+          "secondSubTitle": "Лекарственные средства подлежат обязательной сертификации. Наши специалисты помогут вам, начиная с оформелния подачи заявки и до получние самого сертификата. Сертификат соответствия оформляется органами по сертификации.",
+          "fourthSubTitle": "Наша цель – содействовать сохранению человеческих жизней и обеспечению медицинской помощи путем разработки, производства и вывода на рынок высокоэффективных товаров, соответствующих ожиданиям наших клиентов."
+        },
+        "contentContainer": {
+          "firstTitle": "Гарантия качества",
+          "secondTitle": "Широкий ассортимент",
+          "thirdTitle": "Свой склад",
+          "fourthTitle": "Удобная и быстрая доставка"
+        },
+        "description": "Система сбыта, построена таким образом, чтобы сделать доступной продукцию предприятия максимально широкому кругу потребителей."
+      },
+      "about": {
+        "title": "О нас",
+        "subTitle": "О нашей компании",
+        "description": "Компания TLP ведет торговую деятельность и продажу лекарственных средств, информация о которых представлена на страницах сайта. Приобрести представленные препараты можно только в соответствующих аптеках по указанным адресам.",
+        "partner": {
+          "firstPartner": "Amgen - американская биофармацевтическая компания.",
+          "secondPartner": "Merck и NGM Biopharmaceuticals, Inc.",
+          "thirdPartner": "Швейцарская фармацевтическая компания."
+        }
+      },
+      "contact": {
+        "title": "Контакты",
+        "subTitle": "Наши контакты",
+        "tabFirst": "Чем мы занимаемся?",
+        "tabSecond": "Часто задаваемые вопросы",
+        "tabThird": "Наши клиенты"
+      },
+      "product": {
+        "title": "Продукция",
+        "subTitle": "Наши товары",
+        "headerTitle": "Лекарственные средства"
+      },
+      "feedback": {
+        "title": "Обратная связть",
+        "subTitle": "Свяжитесь с нами",
+        "formTitle": "Форма обратной связи",
+        "info": "С помощью данной формы Вы можете легко связаться с нашими специалистами и получить информацию по интересующей Вас теме.",
+        "nameField": "Имя",
+        "emailField": "Email",
+        "subjectField": "Тема обращения",
+        "messageField": "Ваше сообщение..."
+      },
+      "footer": {
+        "description": "© TLP Limited 2005-2019. Все права защищены. Контент строго защищен Copyscape. ",
+        "privacy": "Политика конфиденциальности. ",
+        "cookie": "Использование Сookie"
+      }
+    }
+  },
+  "en": {
+    "translation": {
+      "title": "TLP Ltd",
+      "link": "TLP Details",
+      "navTitle": "Site information",
+      "home": {
+        "title": "Home",
+        "subTitle": "TLP Company",
+        "topContainer": {
+          "firstTitle": "Medicines",
+          "secondTitle": "Services",
+          "thirdTitle": "Partners",
+          "fourthTitle": "Goals",
+          "secondSubTitle": "Medicines are subject to mandatory certification. Our experts will help you, starting with the registration of the application and until receiving the certificate itself. The certificate of conformity is issued by certification bodies for medicines.",
+          "fourthSubTitle": "Our goal is to contribute to the preservation of human lives and the provision of medical care through the development, production and market launch of highly effective products that meet the expectations of our customers."
+        },
+        "contentContainer": {
+          "firstTitle": "Quality assurance",
+          "secondTitle": "Wide range of goods",
+          "thirdTitle": "Own warehouse",
+          "fourthTitle": "Convenient and fast delivery"
+        },
+        "description": "The sales system is designed in such a way as to make available the company's products to the widest possible range of consumers."
+      },
+      "about": {
+        "title": "About",
+        "subTitle": "About us",
+        "description": "TLP company conducts trading activities and sales of medicines, information about which is presented on the pages of the site. You can purchase the presented drugs only in the appropriate pharmacies at the specified addresses.",
+        "partner": {
+          "firstPartner": "Amgen is an American biopharmaceutical company.",
+          "secondPartner": "Merck and NGM Biopharmaceuticals, Inc.",
+          "thirdPartner": "Swiss pharmaceutical company."
+        }
+      },
+      "contact": {
+        "title": "Contacts",
+        "subTitle": "Our contacs",
+        "tabFirst": "What are we doing?",
+        "tabSecond": "FAQ",
+        "tabThird": "Our clients"
+      },
+      "product": {
+        "title": "Products",
+        "subTitle": "Our products",
+        "headerTitle": "Medicines"
+      },
+      "feedback": {
+        "title": "Feedback",
+        "subTitle": "Contact us",
+        "formTitle": "Feedback form",
+        "info": "Using this form, you can easily contact our specialists and get information on a topic of interest to you.",
+        "nameField": "Name",
+        "emailField": "Email",
+        "subjectField": "Subject",
+        "messageField": "Your message..."
+      },
+      "footer": {
+        "description": "© TLP Limited 2005-2019. All Rights Reserved. Content strictly protected by Copyscape. ",
+        "privacy": "Privacy Policy. ",
+        "cookie": "Cookie Policy."
+      }
+    }
+  },
+  "de": {
+    "translation": {
+      "title": "TLP Ltd",
+      "link": "TLP Details",
+      "navTitle": "Site information",
+      "home": {
+        "title": "Hauptseite",
+        "subTitle": "TLP Company",
+        "topContainer": {
+          "firstTitle": "Medikamente",
+          "secondTitle": "Quality",
+          "thirdTitle": "Partner",
+          "fourthTitle": "Ziele",
+          "secondSubTitle": "Arzneimittel sind zertifizierungspflichtig. Unsere Experten helfen Ihnen von der Registrierung des Antrags bis zum Erhalt des Zertifikats. Die Konformitätsbescheinigung wird von Zertifizierungsstellen für Arzneimittel ausgestellt.",
+          "fourthSubTitle": "Unser Ziel ist es, durch die Entwicklung, Produktion und Markteinführung von hochwirksamen Produkten, die den Erwartungen unserer Kunden entsprechen, einen Beitrag zur Rettung des menschlichen Lebens und zur medizinischen Versorgung zu leisten."
+        },
+        "contentContainer": {
+          "firstTitle": "Qualitätssicherung",
+          "secondTitle": "Dienstleistungen",
+          "thirdTitle": "Eigenes Lager",
+          "fourthTitle": "Bequeme und schnelle Lieferung"
+        },
+        "description": "Das Verkaufssystem ist so konzipiert, dass die Produkte des Unternehmens einem möglichst breiten Verbraucherkreis zur Verfügung stehen."
+      },
+      "about": {
+        "title": "Über uns",
+        "subTitle": "Über unser",
+        "description": "Das TLP-Unternehmen betreibt Handelsaktivitäten und den Verkauf von Arzneimitteln. Informationen dazu finden Sie auf den Seiten der Website. Sie können die vorgestellten Medikamente nur in den entsprechenden Apotheken an den angegebenen Adressen kaufen.",
+        "partner": {
+          "firstPartner": "Amgen ist ein amerikanisches biopharmazeutisches Unternehmen.",
+          "secondPartner": "Merck und NGM Biopharmaceuticals, Inc.",
+          "thirdPartner": "Schweizer Pharmaunternehmen."
+        }
+      },
+      "contact": {
+        "title": "Kontaktdaten",
+        "subTitle": "Unsere Kontakte",
+        "tabFirst": "Was machen wir?",
+        "tabSecond": "Häufig gestellte Fragen",
+        "tabThird": "Unsere Kunden"
+      },
+      "product": {
+        "title": "Produkte",
+        "subTitle": "Unsere Produkte",
+        "headerTitle": "Medikamente"
+      },
+      "feedback": {
+        "title": "Rückkopplung",
+        "subTitle": "Sprechen Sie uns an",
+        "formTitle": "Feedback-Formular",
+        "info": "Mit diesem Formular können Sie sich ganz einfach an unsere Spezialisten wenden und sich über ein für Sie interessantes Thema informieren.",
+        "nameField": "Vorname",
+        "emailField": "Email",
+        "subjectField": "Thema der Berufung",
+        "messageField": "Ihre Nachricht..."
+      },
+      "footer": {
+        "description": "© TLP Limited 2005-2019. Alle Rechte vorbehalten. Inhalt von Copyscape streng geschützt. ",
+        "privacy": "Datenschutz-Bestimmungen. ",
+        "cookie": "Cookie-Richtlinie."
+      }
+    }
+  },
+  "it": {
+    "translation": {
+      "title": "TLP Ltd",
+      "link": "Dettagli TLP",
+      "navTitle": "Informazioni sul sito",
+      "home": {
+        "title": "Pagina principale",
+        "subTitle": "TLP Company",
+        "topContainer": {
+          "firstTitle": "Farmaci",
+          "secondTitle": "Qualità",
+          "thirdTitle": "Partner",
+          "fourthTitle": "Obiettivi",
+          "secondSubTitle": "I medicinali sono soggetti a certificazione obbligatoria. I nostri esperti ti aiuteranno, a partire dalla registrazione della domanda e fino alla ricezione del certificato stesso. Il certificato di conformità è rilasciato da organismi di certificazione per i medicinali.",
+          "fourthSubTitle": "Il nostro obiettivo è contribuire alla conservazione della vita umana e alla fornitura di assistenza medica attraverso lo sviluppo, la produzione e il lancio sul mercato di prodotti altamente efficaci che soddisfino le aspettative dei nostri clienti."
+        },
+        "contentContainer": {
+          "firstTitle": "Garanzia di qualità",
+          "secondTitle": "Servizi",
+          "thirdTitle": "Proprio magazzino",
+          "fourthTitle": "Consegna conveniente e veloce"
+        },
+        "description": "Un sistema di vendita progettato in modo tale da massimizzare la disponibilità dei prodotti aziendali."
+      },
+      "about": {
+        "title": "Su di noi",
+        "subTitle": "Sulla nostra azienda",
+        "description": "La società TLP svolge attività commerciali e vendite di medicinali, le cui informazioni sono presentate nelle pagine del sito. Puoi acquistare i farmaci presentati solo nelle farmacie appropriate agli indirizzi specificati.",
+        "partner": {
+          "firstPartner": "Amgen è una società biofarmaceutica americana.",
+          "secondPartner": "Merck e NGM Biopharmaceuticals, Inc.",
+          "thirdPartner": "Azienda farmaceutica svizzera."
+        }
+      },
+      "contact": {
+        "title": "Contatto",
+        "subTitle": "I nostri contatti",
+        "tabFirst": "Cosa facciamo?",
+        "tabSecond": "Domande frequenti",
+        "tabThird": "I nostri clienti"
+      },
+      "product": {
+        "title": "Prodotti",
+        "subTitle": "I nostri prodotti",
+        "headerTitle": "Medicinali"
+      },
+      "feedback": {
+        "title": "Risposta",
+        "subTitle": "Contattaci",
+        "formTitle": "Modulo di feedback",
+        "info": "Utilizzando questo modulo, puoi contattare facilmente i nostri specialisti e ottenere informazioni su un argomento di tuo interesse.",
+        "nameField": "Nome",
+        "emailField": "Email",
+        "subjectField": "Tema di appello",
+        "messageField": "Il tuo messaggio..."
+      },
+      "footer": {
+        "description": "© TLP Limited 2005-2019. Tutti i diritti riservati. Contenuto strettamente protetto da Copyscape. ",
+        "privacy": "Politica sulla riservatezza. ",
+        "cookie": "Gestione dei Cookie."
+      }
+    }
+  }
+}
