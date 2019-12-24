@@ -1,69 +1,68 @@
-# TLP - landing frontend
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Typescript-nextjs-redux-material-ui
+## Available Scripts
 
-This using typescript, next.js, redux, material-ui, and is corresponding to the server side rendering.
+In the project directory, you can run:
 
-By VSCode and prettier and TSLint, realtime code format and realtime sentence structure check and rearranging of unused import are carried out in real time.
+### `yarn start`
 
-## Features
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-- [Google App Engine Node.js Standard Environment](https://cloud.google.com/appengine/docs/standard/nodejs/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Typescript v3](https://www.typescriptlang.org/)
-- [Next.js v9](https://nextjs.org/)
-- [MATERIAL-UI v4](https://material-ui.com/)
-- [Redux](https://redux.js.org/)
-- [TSLint](https://palantir.github.io/tslint/)
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-## Requirement
+### `yarn test`
 
-- [Google Chrome](https://www.google.com/intl/ja_ALL/chrome/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [yarn](https://yarnpkg.com/lang/ja/)
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Install Google Chrome addon
+### `yarn build`
 
-- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ja)
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Recommended VSCode addons
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Usage
+### `yarn eject`
 
-### Download and install
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-```bash
-npm i
-```
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Start local
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-```bash
-npm run dev
-```
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### Build and start production express server
+## Learn More
 
-```bash
-npm run build
-npm start
-```
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## For google appengine
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-### [Optional] appengine deploy Settings
+### Code Splitting
 
-```bash
-vi ./deploy-appengine.sh
-```
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Deploy appengine
+### Analyzing the Bundle Size
 
-```bash
-./deploy-appengine.sh
-```
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `yarn build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
